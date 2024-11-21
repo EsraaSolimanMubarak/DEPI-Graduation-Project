@@ -28,6 +28,7 @@ Developed automation scripts to streamline repetitive tasks, saving time and eff
 - **User Management:** Automated account creation and management with PowerShell for Active Directory.
 
 Learn more in the [Automation Tasks Documentation](https://docs.google.com/document/d/1-omqb8aDTbMAmVrs9XqkUgNU4Ps-WRTQ7YEBsZRs6pU/edit?usp=sharing).
+Watch the [Automation Tasks Video](https://youtu.be/eSwmCe1R4bg).
 
 ---
 
@@ -91,9 +92,3 @@ Explore the implemented solutions visually on the [project webpage](#).
 6. **Remote Access:** Enabled secure remote connections using OpenVPN.
 7. **Disaster Recovery:** Created a comprehensive plan to minimize downtime.
 
----
-
-## **How to Access the Project**
-1. Clone this repository using:
-   ```bash
-   git clone https://github.com/your-repo-link.git
