@@ -16,6 +16,7 @@ The DEPI Graduation Project focuses on solving key IT infrastructure challenges:
 - Centralizing user and system management.
 - Automating repetitive IT tasks for efficiency.
 - Enhancing security and disaster recovery processes.
+- Establishing unified communication channels.
 
 ---
 
@@ -54,7 +55,23 @@ Learn more in the [SSL/TLS Certificate Setup Documentation](https://docs.google.
 
 ---
 
-### **5. Backup and Disaster Recovery**
+### **5. OpenVPN for Secure Remote Access**
+- Configured OpenVPN to enable secure connections for remote employees.
+- Ensured encryption and protection of sensitive data during remote access.
+
+Watch the [OpenVPN Configuration Video](https://youtu.be/K78dCxrKDnQ).
+
+---
+
+### **6. Slack Unified Communication Channel**
+- Implemented Slack to provide a centralized platform for team collaboration, messaging, and file sharing.
+- Improved communication efficiency across departments.
+
+Refer to the [Slack Unified Communication Channel Documentation](https://docs.google.com/document/d/19UMUSbZKYh-VU8XCV_zHlGgJIUUmNVx1fZOwSKwH59Q/edit?usp=sharing).
+
+---
+
+### **7. Backup and Disaster Recovery**
 - Implemented regular backups using AWS S3 for critical data.
 - Designed a disaster recovery plan to ensure minimal downtime and rapid recovery.
 
@@ -70,7 +87,9 @@ Explore the implemented solutions visually on the [project webpage](#).
 2. **Centralized Management:** Simplified user and system access.
 3. **Task Automation:** Improved efficiency using scripts for routine IT processes.
 4. **Enhanced Security:** Deployed SSL/TLS, data backups, and firewalls to secure the infrastructure.
-5. **Disaster Recovery:** Created a comprehensive plan to minimize downtime.
+5. **Unified Communication:** Established Slack as the main collaboration hub.
+6. **Remote Access:** Enabled secure remote connections using OpenVPN.
+7. **Disaster Recovery:** Created a comprehensive plan to minimize downtime.
 
 ---
 
