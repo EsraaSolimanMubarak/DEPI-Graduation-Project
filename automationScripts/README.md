@@ -11,46 +11,49 @@ Explore the details of the automation tasks through the following resources:
 🎥 Watch on YouTube: https://youtu.be/eSwmCe1R4bg
 
 🔑 Features
-Backup Automation:
+# Backup Automation:
 
 Automates the process of backing up files and directories from a source (local system) to a destination (AWS S3 bucket).
 Configured to run on a schedule (e.g., every 15 minutes) using Task Scheduler or Cron Jobs.
-Incremental Backup:
+# Incremental Backup:
 
 Ensures that only new or modified files are synchronized to the destination, saving bandwidth and storage costs.
-Error Logging:
+# Error Logging:
 
 Captures detailed logs of each backup process, including any errors or skipped files, for better debugging and monitoring.
-Cross-Platform Support:
+# Cross-Platform Support:
 
 Compatible with both Windows and Linux systems, ensuring flexibility in hybrid infrastructure environments.
-Secure Transfers:
+# Secure Transfers:
 
 Uses encrypted connections to ensure data security during transfer to AWS S3 or any other destination.
 🚀 How It Works
-Input Parameters:
+# Input Parameters:
 
 Source Path: Specifies the folder(s) to back up.
 Destination Path: Points to the AWS S3 bucket or local backup folder.
 Schedule: Configured using Task Scheduler (Windows) or Cron Jobs (Linux).
-Execution Process:
+# Execution Process:
 
 The script scans the source directory for changes.
 Transfers new or updated files to the destination.
 Logs the results of the operation for review.
-Scheduling:
+# Scheduling:
 
 The script is executed periodically based on predefined intervals (e.g., every 15 minutes or hourly).
+
 ⚙️ Technologies Used
 PowerShell: Automates tasks on Windows systems.
 Bash: Automates tasks on Linux systems.
 AWS CLI: Facilitates seamless integration with AWS services.
 Task Scheduler / Cron Jobs: Manages script scheduling.
+
 🛠 How to Use
-Clone the repository.
+Clone the repository
 Configure the script by editing the source and destination paths.
 Set up the schedule using Task Scheduler (Windows) or Cron Jobs (Linux).
-Run the script and monitor the logs for successful backups.
+Run the script and monitor the logs for successful backups
+
 📊 Benefits
 Saves time by automating repetitive tasks.
 Reduces errors caused by manual processes.
