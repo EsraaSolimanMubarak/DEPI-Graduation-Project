@@ -27,7 +27,7 @@ Developed automation scripts to streamline repetitive tasks, saving time and eff
 - **Backup & Sync:** Used AWS S3 and PowerShell to automate backups.
 - **User Management:** Automated account creation and management with PowerShell for Active Directory.
 
-Learn more in the [Automation Tasks Documentation](https://docs.google.com/document/d/1-omqb8aDTbMAmVrs9XqkUgNU4Ps-WRTQ7YEBsZRs6pU/edit?usp=sharing).
+Learn more in the [Automation Tasks Documentation](https://docs.google.com/document/d/1upZl0DsfEncij8x_ujeUG0HNgDOvaAwzA9JpHv9Ijtw/edit?usp=sharing).
 Watch the [Automation Tasks Video](https://youtu.be/eSwmCe1R4bg).
 
 ---
