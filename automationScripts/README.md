@@ -7,6 +7,7 @@ The automation script is built using PowerShell (for Windows) and Bash (for Linu
 Explore the details of the automation tasks through the following resources:
 
 📄 Documentation: https://docs.google.com/document/d/1-omqb8aDTbMAmVrs9XqkUgNU4Ps-WRTQ7YEBsZRs6pU/edit?usp=sharing
+
 🎥 Watch on YouTube: https://youtu.be/eSwmCe1R4bg
 
 🔑 Features
