@@ -1,6 +1,7 @@
 The automation script developed for this project is a crucial component designed to streamline routine IT management tasks, reduce manual effort, and enhance efficiency. Below is an overview of its key functionalities and features:
 
 📄 Script Overview
+
 The automation script is built using PowerShell (for Windows) and Bash (for Linux) to manage and synchronize data effectively across local and cloud environments. It ensures seamless execution of regular tasks with minimal user intervention.
 
 📂 Automation Tasks Documentation and Video
@@ -43,18 +44,21 @@ Logs the results of the operation for review.
 The script is executed periodically based on predefined intervals (e.g., every 15 minutes or hourly).
 
 ⚙️ Technologies Used
+
 PowerShell: Automates tasks on Windows systems.
 Bash: Automates tasks on Linux systems.
 AWS CLI: Facilitates seamless integration with AWS services.
 Task Scheduler / Cron Jobs: Manages script scheduling.
 
 🛠 How to Use
+
 Clone the repository
 Configure the script by editing the source and destination paths.
 Set up the schedule using Task Scheduler (Windows) or Cron Jobs (Linux).
 Run the script and monitor the logs for successful backups
 
 📊 Benefits
+
 Saves time by automating repetitive tasks.
 Reduces errors caused by manual processes.
 Enhances data security and reliability.
