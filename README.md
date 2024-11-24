@@ -78,6 +78,19 @@ Refer to the [Slack Unified Communication Channel Documentation](https://docs.go
 
 ---
 
+### **8. Windows Server Replication Documentation**
+This document outlines the steps and configuration details for setting up Windows Server replication, ensuring system redundancy and high availability.
+- Read the [Windows Server Replication Documentation](https://docs.google.com/document/d/1aswsIP--DkiF2pVkFNr0gfML9IdEyQe5YHPp0i_kzJE/edit?usp=sharing).
+- Implemented regular backups using AWS S3 for critical data.
+- Designed a disaster recovery plan to ensure minimal downtime and rapid recovery.
+
+---
+
+### **TechWave Project Presentation**
+The TechWave project presentation provides an overview of the project, goals, and implementation strategies.
+- View the [TechWave Project Presentation](https://www.canva.com/design/DAGRTNefwwc/Y9tNnkBsNLRbqqqhjiJyOw/edit?utm_content=DAGRTNefwwc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
+
+
 ## **Gallery of Screenshots**
 Explore the implemented solutions visually on the [project webpage](#).
 
