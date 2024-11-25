@@ -1,11 +1,11 @@
 # **DEPI Graduation Project Repository**
 
-This repository is dedicated to showcasing the work I have developed for the **DEPI Graduation Project**, addressing modern IT infrastructure challenges. It highlights the implemented systems, automation, and solutions designed to optimize resource utilization, enhance security, and streamline IT operations.
+This repository showcases the work I have developed for the **DEPI Graduation Project**, which addresses modern IT infrastructure challenges. It highlights the implemented systems, automation, and solutions designed to optimize resource utilization, enhance security, and streamline IT operations.
 
 ---
 
 ## **Explore the Project**
-I have created a dedicated [webpage](https://esraasolimanmubarak.github.io/DEPI-Graduation-Project/) to explore all aspects of this project in detail, including screenshots, videos, and documentation.
+I have created a dedicated [webpage](https://esraasolimanmubarak.github.io/DEPI-Graduation-Project/) to explore all aspects of this project in detail, including screenshots, videos, and documentation. So please explore it first!
 
 ---
 
@@ -59,7 +59,7 @@ Learn more in the [SSL/TLS Certificate Setup Documentation](https://docs.google.
 ### **5. OpenVPN for Secure Remote Access**
 - Configured OpenVPN to enable secure connections for remote employees.
 - Ensured encryption and protection of sensitive data during remote access.
-
+  
 Watch the [OpenVPN Configuration Video](https://youtu.be/K78dCxrKDnQ).
 
 ---
@@ -89,10 +89,6 @@ This document outlines the steps and configuration details for setting up Window
 ### **TechWave Project Presentation**
 The TechWave project presentation provides an overview of the project, goals, and implementation strategies.
 - View the [TechWave Project Presentation](https://www.canva.com/design/DAGRTNefwwc/Y9tNnkBsNLRbqqqhjiJyOw/edit?utm_content=DAGRTNefwwc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
-
-
-## **Gallery of Screenshots**
-Explore the implemented solutions visually on the [project webpage](#).
 
 ---
 
